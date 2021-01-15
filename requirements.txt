@@ -3,3 +3,4 @@ cd venv/Scripts
 activate
 pip install flask
 pip install tensorflow
+pip install pillow
